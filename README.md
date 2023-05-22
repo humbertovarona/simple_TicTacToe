@@ -18,5 +18,8 @@ A simple example of Tic Tac Toe in Java language
 
 ```shell
 cd TicTacToeGame/src/main/java/hlvarona/tictactoegame/
+```
+
+```shell
 java TicTacToeGame.java
 ```
