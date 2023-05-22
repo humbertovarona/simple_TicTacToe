@@ -17,5 +17,5 @@ A simple example of Tic Tac Toe in Java language
 # How to run
 
 ```shell
-# java TicTacToeGame.java
+java TicTacToeGame.java
 ```
